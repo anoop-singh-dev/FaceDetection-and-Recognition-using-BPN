@@ -13,5 +13,8 @@
 
 ![abc](https://user-images.githubusercontent.com/9657488/35817254-e79b3612-0ac2-11e8-9144-54cfbabedb03.png)
 
+### For Face Detection through webcam
+* $ python live.py haarcascade_frontalface_default.xml
+
   
   

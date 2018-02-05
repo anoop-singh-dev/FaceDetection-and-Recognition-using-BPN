@@ -15,7 +15,7 @@
 
 ### For Face Detection through webcam
 * $ python live.py haarcascade_frontalface_default.xml
-### for face recognition
+### For face recognition
 
 * run the dataSetGenerator.py and enter a unique id to create face samples with your face
 * run trainer.py for trained dataset

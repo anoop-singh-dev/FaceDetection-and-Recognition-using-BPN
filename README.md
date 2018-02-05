@@ -20,3 +20,5 @@
 * run the dataSetGenerator.py and enter a unique id to create face samples with your face
 * run trainer.py for trained dataset
 * run detector.py for recognition the face
+
+![bbf](https://user-images.githubusercontent.com/9657488/35817774-5284ddb0-0ac4-11e8-98a0-249db21a92c0.png)

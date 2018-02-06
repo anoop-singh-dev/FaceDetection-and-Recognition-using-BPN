@@ -3,7 +3,7 @@
 ## Prerequisites
 * Python 2.x
 * OpenCV 3.x
-* pillow python library
+* Pillow Python Library
 
 ## Running the tests
 

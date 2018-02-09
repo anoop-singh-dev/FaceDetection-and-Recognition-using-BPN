@@ -22,3 +22,9 @@
 * run detector.py for recognition of face
 
 ![bbf](https://user-images.githubusercontent.com/9657488/35817774-5284ddb0-0ac4-11e8-98a0-249db21a92c0.png)
+
+
+### For running a simple back propagation neural network
+* Go folder back_propagation_neural_network
+* $ python nu1.py
+#### --> We not use back propagation neural network for face recognition,we only cerate a simple BPNN and trained it.

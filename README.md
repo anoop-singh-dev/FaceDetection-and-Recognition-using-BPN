@@ -27,4 +27,8 @@
 ### For running a simple back propagation neural network
 * Go folder back_propagation_neural_network
 * $ python nu1.py
+
+![bpnn](https://user-images.githubusercontent.com/9657488/36050444-91f3fd78-0e0c-11e8-8a9d-b2512ed9687d.png)
+
+
 #### --> We not use back propagation neural network for face recognition,we only cerate a simple BPNN and trained it.
